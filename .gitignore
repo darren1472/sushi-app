@@ -1,0 +1,11 @@
+# Pythonキャッシュファイルを無視
+__pycache__/
+*.pyc
+
+# 仮想環境を無視（venv）
+venv/
+.env
+
+# 個人情報や設定ファイルを無視
+secrets.json
+*.log
